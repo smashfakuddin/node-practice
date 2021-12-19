@@ -1,6 +1,9 @@
-module.exports.item = ['item1', 'item2']
+module.exports.item = ['test one', 'test two']
 
-const person = {
-    name: 'bob'
-}
-module.exports.singleperson = person;
+// const person = {
+//     name: 'bob'
+// }
+module.exports.singleperson =  {
+    name: 'bob',
+    address:'70 bonani, dhaka'
+};
